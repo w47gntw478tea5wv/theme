@@ -25,7 +25,7 @@
     background: rgba(0,0,0,.8);
 }
 
-.textArea-20yzAH {
+.textArea-2Spzkt {
 	max-height: calc(12*1.3em);
 }
 
@@ -48,7 +48,7 @@
     background: rgba(0,0,0,.8);
 }
 
-.textArea-20yzAH {
+.textArea-2Spzkt {
 	max-height: calc(12*1.3em);
 }
 
@@ -106,7 +106,7 @@ body:before {
 	background: transparent !important;
 }
 
-.embedPill-3sYS1X {
+.embedPill-1Zntps {
 	width: 5px;
 }
 
@@ -116,20 +116,20 @@ body:before {
 
 /* Input bar */
 
-.channelTextArea-1HTP3C > .inner-3if5cm,
-.autocompleteInner-N7OQf1 {
+.channelTextArea-1LDbYG > .inner-zqa7da,
+.autocompleteInner-1WpcVO {
 	background-color: rgb(10,10,10) !important;
 }
 
 /* Title Bar */
- .titleBar-3_fDwJ {
+ .titleBar-AC4pGV {
 	 margin-top: 0;
 	 padding-top: 4px;
 	 background-color: rgba(0,0,0,.7);
  }
 
  /* Channel members*/
- .scroller-fzNley.members-1bid1J,
+ .scroller-2FKFPG.members-1998pB,
  .channel-members-wrap {
     background-color: rgba(0,0,0, .45);
  }
@@ -201,7 +201,7 @@ body:before {
 
 /* Chat */
 .search-results-wrap,
-.typing-3eiiL_ ,
+.typing-2GQL18 ,
 .messages-wrapper,
 .messages-wrapper .scroller-wrap,
 .messages-wrapper .scroller-wrap .messages,
@@ -211,9 +211,9 @@ body:before {
 .typing,
 
 /* General */
-.layer-kosS71,
-.layers-20RVFW,
-.container-2OU7Cz,
+.layer-3QrUeG,
+.layers-3iHuyZ,
+.container-RYiLUQ,
 #app-mount,
 .layers,
 .layer,
@@ -242,26 +242,26 @@ body:before {
  *                             |_|
  */
 
-.uploadModal-2KN6Mm,
-.uploadModal-2KN6Mm .footer-4pOKm8 {
+.uploadModal-2ifh8j,
+.uploadModal-2ifh8j .footer-3mqk7D {
 	background-color: rgb(50,50,50);
 }
-.uploadModal-2KN6Mm .inner-1-09ZV {
+.uploadModal-2ifh8j .inner-3nWsbo {
 	background-color: rgba(0,0,0,.5);
 	border-color: black;
 }
 
-.uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh {
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
 	border-color: black;
 }
 
-.uploadModal-2KN6Mm .footer-4pOKm8 .button {
+.uploadModal-2ifh8j .footer-3mqk7D .button {
 	margin-right: 5px;
 	background-color: rgb(100,100,100);
 	color: white;
 }
 
-.uploadModal-2KN6Mm .footer-4pOKm8 .button-primary {
+.uploadModal-2ifh8j .footer-3mqk7D .button-primary {
 	background-color: rgb(200,200,200);
 	color: rgb(50,50,50);
 }
@@ -348,7 +348,7 @@ body:before {
 
 /* Thx CompletelyUnbelievable#3231 */
 
-div.mask-2vyqAW, div.maskProfile-MeBve8{
+div.mask-3OgeRz, div.maskProfile-1ObLFT{
     mask: none !important;
     -webkit-mask: none !important;
 }
@@ -406,7 +406,7 @@ div[class*="popout-"] > div [class*="avatarStatus-"]{
   border-style: solid;
 }
 
-.avatar-1BXaQj.small-TEeAkX .status-2Devx1 {
+.avatar-16XVId.small-5Os1Bb .status-oxiHuE {
 	  margin: 0 0 0 0;
 	  right: 2px;
 	  top: -32px;
@@ -464,52 +464,52 @@ div[class*="statusOnline-"]  {
  *
  */
 
-:not([class*="Voice"]).icon-3tVJnl .background-2nyTH_,
-:not([class*="Voice"]).icon-3tVJnl ~ .foreground-2zy1hc {
+:not([class*="Voice"]).icon-sxakjD .background-2OVjk_,
+:not([class*="Voice"]).icon-sxakjD ~ .foreground-2W-aJk {
 	stroke-width: 1;
 }
 
-.icon-3tVJnl,
-.foreground-2zy1hc,
-.background-2nyTH_ {
+.icon-sxakjD,
+.foreground-2W-aJk,
+.background-2OVjk_ {
 	opacity: 1;
 }
 
-.container-hidden .colorDefaultText-2v6rRX,
-.container-hidden .colorDefaultVoice-1x4dEl {
+.container-hidden .colorDefaultText-oas-QM,
+.container-hidden .colorDefaultVoice-3wYlhb {
 	color: rgb(98,98,255);
 	stroke: rgb(98,98,255);
 }
-.colorHoveredText-1CsxK1,
-.colorHoveredVoice-1P3kui {
+.colorHoveredText-OZnAgu,
+.colorHoveredVoice-1kucsk {
 	color: white;
 	stroke: white;
 	stroke-width: 2 !important;
 }
 
-.channels-3g2vYe:hover {
+.channels-Ie2l6A:hover {
 	min-width: 240px;
 }
-.colorDefaultText-2v6rRX,
-.colorDefaultVoice-1x4dEl {
+.colorDefaultText-oas-QM,
+.colorDefaultVoice-3wYlhb {
 	color: white;
 	stroke: white;
 }
 
-.colorUnreadText-1KwCnP,
+.colorUnreadText-2t7XRb,
 .colorUnreadVoice-1Ztv9I {
 	color: rgb(255,98,98);
 	stroke: rgb(255,98,98);
 }
 
-.colorLockedText-2onHWv,
-.colorLockedVoice-2VCSgk{
+.colorLockedText-wfOnM5,
+.colorLockedVoice-2UlBjl{
 	color: rgb(98,98,255);
 	stroke: rgb(98,98,255);
 }
 
-.colorSelectedVoice-ieXC3Z,
-.colorSelectedText-3YhFC6 {
+.colorSelectedVoice-Xcb_9R,
+.colorSelectedText-1y4Wvs {
 	color: rgb(255,255,0);
 	stroke: rgb(255,255,0);
 }
@@ -656,7 +656,7 @@ div[class*="statusOnline-"]  {
 
 /* Search */
 
-.search-results-wrap > .scrollerWrap-2uBjct {
+.search-results-wrap > .scrollerWrap-2lJEkd {
 	background: rgba(0,0,0,.6) !important;
 }
 
